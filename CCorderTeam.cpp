@@ -20,14 +20,14 @@ int main() {
 				for(j=0;j<3;j++){
 			if(s1[i]>=s1[j]&&s2[i]>=s2[j]&&s3[i]>=s3[j]) {
 				if(i!=j) {
-					count++;
+					count=count+1;
 				}
 		}
 			}
 			
 	}
 		}
-		if(count>2) {
+		if(count>=3) {
 			cout<<"Yes";
 		}
 		else{

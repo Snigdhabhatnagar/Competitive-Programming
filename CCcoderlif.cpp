@@ -18,7 +18,7 @@ int main() {
 				}
 				else if(count1+1>5) {
 				
-				cout<<"#coderlifematters"<<endl;
+				cout<<"#CoderLifeMatters"<<endl;
 				break;
 				}
 				
@@ -29,7 +29,7 @@ int main() {
 		
 	}
 	if(count1+1<=5) {
-		cout<<"#allcodersarefun"<<endl;
+		cout<<"#AllCodersAreFun"<<endl;
 	}
 	
 		
