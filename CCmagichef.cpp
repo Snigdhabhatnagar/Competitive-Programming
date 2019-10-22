@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int main() {
-		int T;
-	cin>>T;
-	while(T>0) {
+		int t;
+	cin>>t;
+	while(t>0) {
 		
 		long int N,X,S,i;
 		cin>>N>>X>>S;
@@ -20,6 +20,6 @@ int main() {
 			}
 		}
 		cout<<X<<endl;
-		T--;
+		t--;
 	}
 }
